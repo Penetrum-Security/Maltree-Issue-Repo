@@ -29,6 +29,8 @@ _NOTE: * == binary only_
  - Produces a custom Yara rule by grabbing the most interesting strings*
  - Full dynamic analysis*
  - And much more
+ 
+A free version of Malcore without the extra ammenties will be released soon.
 
 # Malnet
 
