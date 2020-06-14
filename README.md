@@ -27,6 +27,7 @@ _NOTE: * == binary only_
    - ImpHash*
    - SSDeep hash*
  - Produces a custom Yara rule by grabbing the most interesting strings*
+ - Full dynamic analysis*
  - And much more
 
 # Malnet
