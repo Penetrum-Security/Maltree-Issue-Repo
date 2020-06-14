@@ -26,6 +26,7 @@ _NOTE: * == binary only_
    - MD5
    - ImpHash*
    - SSDeep hash*
+ - Runs the file through over 700 Yara rules*
  - Produces a custom Yara rule by grabbing the most interesting strings*
  - Full dynamic analysis*
  - And much more
