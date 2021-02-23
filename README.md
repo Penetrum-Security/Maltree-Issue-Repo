@@ -1,7 +1,7 @@
 # Maltree
 
 <p align="center">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/14183473/108923102-d7a4a780-75fd-11eb-8e28-f0049611d6d5.png"/>
+<img src="https://user-images.githubusercontent.com/14183473/108923102-d7a4a780-75fd-11eb-8e28-f0049611d6d5.png"/>
 </p><br>
 
 Maltree is a SOC (security operations center) solution that uses a working agent that statically and dynamically analyzes potential suspect files. From there Maltree's working sensor sends the files to a cloud ELK server where a security analyst analyzes the results and determines the steps to take from there. For more information or to talk about how we can use Maltree to secure your environment please contact us at **contact@penetrum.com**.
