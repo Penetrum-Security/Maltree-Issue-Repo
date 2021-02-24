@@ -57,11 +57,11 @@ Malnet is the RESTful API that processes all requests into Malcore, you can read
 
 # Malroot
 
-In development and will be annoucned when completed
+COMING SOON ...
 
 # Malbug 
 
-In development and will be annoucned when completed
+COMING SOON ...
 
 # Malbox
 
@@ -75,6 +75,10 @@ Malbox is the dynamic analysis environment for Malcore that integrates the stati
 # Maltree
 
 Maltree is the whole thing put together into a package that is integratable into almost all major SOC solutions. The goal of Maltree is to provide a more stable, reliable, and cost effective malware analysis platform to integrate into your SOC solution.
+
+# Road Map
+
+COMING SOON ...
 
 
 # **Penetrum LLC** <img src="https://penetrum.com/res/img/hand_logo_black.png" width=50 height=50 />
