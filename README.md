@@ -57,11 +57,11 @@ Malnet is the RESTful API that processes all requests into Malcore, you can read
 
 # Malroot
 
-####### In development and will be annoucned when completed
+In development and will be annoucned when completed
 
 # Malbug 
 
-####### In development and will be annoucned when completed
+In development and will be annoucned when completed
 
 # Malbox
 
