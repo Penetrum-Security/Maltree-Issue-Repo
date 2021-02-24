@@ -20,7 +20,7 @@ Malcore is the future of sandbox analysis. Malcore is the main engine of Maltree
 
 ### Doc files
 
- - Every doc file is ran through ![Inquest DFI](https://labs.inquest.net/dfi) in a closed enviroment
+ - Every doc file is ran through [Inquest DFI](https://labs.inquest.net/dfi) in a closed enviroment
 
 ### All files
 
@@ -34,13 +34,13 @@ Malcore is the future of sandbox analysis. Malcore is the main engine of Maltree
  - Faster than the leading sandbox solutions
  - Integrated static analysis of Windows PE, ELF, APK, and all leading MS doc files (xls, xlsx, doc, docx, etc)
  - Mimetype guessing and exif data gathering
- - Full PCAP analysis for IP address and domains processed through ![ZETAlytics](https://zetalytics.com/)
+ - Full PCAP analysis for IP address and domains processed through [ZETAlytics](https://zetalytics.com/)
  - Generates yara rules and ndb signatures of each file passed
  - Runs each file through over 700+ well documented yara rules
 
 # Malnet
 
-Malnet is the RESTful API that processes all requests into Malcore, you can read the API documentation ![here](http://173.79.10.115:9080/apidocs). During testing we were able to send up to 40,000 requests per hour to Malnet without the API failing. Malnet requires an API key which you may purchase from us on our ![website](https://penetrum.com), or if you prefer you can contact us at the link below for a more private discussion. Key features of Malnet include:
+Malnet is the RESTful API that processes all requests into Malcore, you can read the API documentation [here](http://173.79.10.115:9080/apidocs). During testing we were able to send up to 40,000 requests per hour to Malnet without the API failing. Malnet requires an API key which you may purchase from us on our [website](https://penetrum.com), or if you prefer you can contact us at the link below for a more private discussion. Key features of Malnet include:
 
  - Ability to search the database using a SHA-256 hash
  - Ability to check if a file is packed
@@ -52,7 +52,7 @@ Malnet is the RESTful API that processes all requests into Malcore, you can read
 
  - Unique UUID generated for each upload
  - Shellcode analysis 
- - Domain analysis processed by ![ZETAlytics](https://zetalytics.com/)
+ - Domain analysis processed by [ZETAlytics](https://zetalytics.com/)
  - Ability to process two PCAP files and discover the differences between them
 
 # Malroot
