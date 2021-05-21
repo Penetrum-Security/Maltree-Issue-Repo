@@ -1,0 +1,20 @@
+name: Autocloser
+on:
+  issues:
+    types: [opened]
+jobs:
+  autoclose:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Autoclose issues
+      uses: arkon/issue-closer-action@v3.4
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        rules: |
+          [
+            {
+              "type": "title",
+              "regex": "Maltree.Dev.Issue..*.",
+              "message": "Issue automatically closed because it looks like a development issue"
+            }
+          ]
